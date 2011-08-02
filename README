@@ -1,0 +1,1 @@
+Simple connector designed for examples implementing the notification domain and writing samples to a directory instead of doing something fancy. This connector is designed to work with openengsb-1.2.0.RELEASE and above.
