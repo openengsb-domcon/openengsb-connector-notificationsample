@@ -16,7 +16,6 @@ limitations under the License.
 This project includes:
   AOP alliance under Public Domain
   Apache Log4j under The Apache Software License, Version 2.0
-  Apache ServiceMix :: Bundles :: mail under The Apache Software License, Version 2.0
   AspectJ runtime under Eclipse Public License - v 1.0
   AspectJ weaver under Eclipse Public License - v 1.0
   Commons Collections under The Apache Software License, Version 2.0
@@ -30,7 +29,7 @@ This project includes:
   Jackson under The Apache Software License, Version 2.0
   JUnit under Common Public License Version 1.0
   Mockito under The MIT License
-  OpenEngSB :: Connector :: Email under Apache 2
+  OpenEngSB :: Connector :: Notification File Example under Apache 2
   OpenEngSB :: Core :: API under Apache 2
   OpenEngSB :: Core :: Common under Apache 2
   OpenEngSB :: Core :: Test under Apache 2
