@@ -27,13 +27,13 @@ import java.util.Date;
 
 import org.apache.commons.lang.StringUtils;
 import org.openengsb.core.api.AliveState;
-import org.openengsb.core.common.AbstractOpenEngSBService;
+import org.openengsb.core.common.AbstractOpenEngSBConnectorService;
 import org.openengsb.domain.notification.NotificationDomain;
 import org.openengsb.domain.notification.model.Notification;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class FileNotifier extends AbstractOpenEngSBService implements NotificationDomain {
+public class FileNotifier extends AbstractOpenEngSBConnectorService implements NotificationDomain {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(FileNotifier.class);
 

@@ -24,13 +24,13 @@ import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.Map;
 
-import org.openengsb.core.api.Domain;
+import org.openengsb.core.api.Connector;
 import org.openengsb.core.common.AbstractConnectorInstanceFactory;
 
 public class NotifierFactory extends AbstractConnectorInstanceFactory<FileNotifier> {
 
     @Override
-    public Domain createNewInstance(String id) {
+    public Connector createNewInstance(String id) {
         return new FileNotifier(id);
     }
 
