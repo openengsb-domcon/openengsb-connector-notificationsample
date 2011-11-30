@@ -24,7 +24,7 @@
   <feature name="openengsb-connector-notificationsample" version="${project.version}" >
     <feature version="${openengsb.version.range}">openengsb-framework</feature>
     <feature version="${openengsb.domain.range}">openengsb-domain-notification</feature>
-    <bundle>mvn:org.openengsb.connector/openengsb-connector-notificationsample/${project.version}</bundle>
+    <bundle>mvn:org.openengsb.connector/org.openengsb.connector.notificationsample/${project.version}</bundle>
   </feature>
 </features>
 
