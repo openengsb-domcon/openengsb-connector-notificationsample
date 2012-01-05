@@ -28,8 +28,8 @@ import java.util.Date;
 import org.apache.commons.lang.StringUtils;
 import org.openengsb.core.api.AliveState;
 import org.openengsb.core.common.AbstractOpenEngSBConnectorService;
+import org.openengsb.domain.notification.Notification;
 import org.openengsb.domain.notification.NotificationDomain;
-import org.openengsb.domain.notification.model.Notification;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
