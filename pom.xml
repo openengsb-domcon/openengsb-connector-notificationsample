@@ -37,7 +37,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.openengsb.connector</groupId>
   <artifactId>org.openengsb.connector.notificationsample</artifactId>
-  <version>2.0.0-SNAPSHOT</version>
+  <version>2.0.0</version>
 
   <name>OpenEngSB :: Connector :: Notification File Example</name>
 
